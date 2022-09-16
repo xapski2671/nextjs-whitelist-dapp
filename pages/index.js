@@ -1,6 +1,6 @@
 import Head from "next/head"
 import Image from "next/image"
-import bg from "../assets/mythos.jpg"
+import bg from "../assets/MYTHOS.jpg"
 import networkMapping from "../constants/networkMapping.json"
 import WhitelistABI from "../constants/WhitelistABI.json"
 import { ethers } from "ethers"
